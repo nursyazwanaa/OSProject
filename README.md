@@ -1,13 +1,12 @@
 # OSProject Running Containers for Application Development
 
-Group Name: __Fill your team name__. 
-
-Section: __Fill your class section__. 
+Group Name: SyncSphere
+Section: 2 
 
 Team Mates:
-1. __Fill name__ and __matric no__
-2. __Fill name__ and __matric no__
-3. __Fill name__ and __matric no__
+1. Nurdiyana Shahirah binti Azlan and 2210236
+2. Nursyazwana Athirah Binti Samsul Badri and 2216936
+3. Sofeah Khairun Nisa binti Asman and 2210832
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
